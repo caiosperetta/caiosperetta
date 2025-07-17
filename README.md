@@ -2,35 +2,38 @@
 
 ###
 
-<p align="left">Programador em formação, sempre disposto a aprender e criar soluções modernas que ajudem no crescimento profissional e pessoal. <br>Tenho buscado, foco nos estudos de java, com o objetivo de aprimorar meu aprendizado e conseguir um futuro promissor na área.</p>
+<p align="left">Sou um programador em formação, sempre disposto a aprender e criar soluções modernas que contribuam para o meu crescimento pessoal e profissional.<br>Atualmente, estou focado nos estudos de Java com o objetivo de aprimorar meus conhecimentos e construir um futuro promissor na área de tecnologia.</p>
+
 
 ###
 
 <h3 align="left">Sobre mim</h3>
 
-###
+<ul align="left">
+  <li>🎓 <strong>Formação Acadêmica:</strong> Cursando o último semestre de Análise e Desenvolvimento de Sistemas e iniciando Engenharia da Computação (EAD).</li>
+  <li>👨‍💻 <strong>Objetivo Profissional:</strong> Tornar-me desenvolvedor back-end, com foco em Java.</li>
+  <li>🛠 <strong>Experiência:</strong> Estágio em suporte técnico e desenvolvimento de sistemas, atuando em manutenção, melhorias e atendimento a usuários.</li>
+  <li>💾 <strong>Conhecimentos Técnicos:</strong> Java (em aprendizado), MySQL, Git, HTML, CSS, suporte a sistemas e servidores.</li>
+  <li>🧠 <strong>Estudos Atuais:</strong> Java, estrutura de dados e algoritmos.</li>
+</ul>
 
-<p align="left">🎓 Formação Acadêmica: Cursando o último semestre de Análise e Desenvolvimento de Sistemas e iniciando Engenharia da Computação (EAD).<br><br>👨‍💻 Objetivo Profissional: Tornar-me desenvolvedor back-end <br><br>🛠 Experiência: Estágio em suporte técnico e desenvolvimento de sistemas, com atuação em manutenção, melhorias e atendimento a usuários.<br><br>💾 Conhecimentos Técnicos: Java (em aprendizado), MySQL, versionamento com Git, HTML/CSS, suporte a sistemas e servidores.<br><br>🧠 Estudos Atuais: Aprofundamento em Java, estrutura de dados e algoritmos.</p>
-
-###
 
 <div align="center">
-  <img height="200" src="https://br.pinterest.com/pin/592786369683741882/"  />
+  <img height="200" src="[https://i.imgur.com/seu-link-direto.jpg](https://imgur.com/a/6PEAL3k)" alt="Ilustração animada" />
 </div>
+
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
+
 
 ###
 
@@ -55,3 +58,10 @@
 </picture>
 
 ###
+
+### 📫 Contato
+
+- 📧 Email: caiosperettajuliano@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
+- 🌐 [Meu Portfólio](https://seu-portfolio.com)
+
