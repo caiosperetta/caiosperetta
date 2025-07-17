@@ -58,6 +58,7 @@ Atualmente, estou focado nos estudos de Java com o objetivo de aprimorar meus co
 
 ### 📫 Contato
 
-- 📧 Email: caiosperettajuliano@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)  
-- 🌐 [Meu Portfólio](https://seu-portfolio.com)
+- 📧 Email: <a href="mailto:caiosperettajuliano@gmail.com" target="_blank" rel="noopener noreferrer">caiosperettajuliano@gmail.com</a>  
+- 💼 <a href="https://linkedin.com/in/seu-usuario" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+- 🌐 <a href="https://caiosperetta.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Meu Portfólio</a>
+
