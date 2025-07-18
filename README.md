@@ -44,6 +44,24 @@ Atualmente, estou focado nos estudos de Java com o objetivo de aprimorar meus co
 
 ###
 
+### 🚀 Projetos Principais
+
+<div align="left">
+
+- <a href="https://caiosperetta.github.io/portfolio/" target="_blank">
+    Meu Portfólio
+  </a>  
+  <br />
+
+- <a href="https://caiosperetta.github.io/haikyu_project_website/" target="_blank">
+    Projeto Haikyu
+  </a>  
+  <br />
+
+</div>
+
+###
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gfqa6h2zuo1vynp0tmx8gcnaf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
@@ -73,5 +91,3 @@ Atualmente, estou focado nos estudos de Java com o objetivo de aprimorar meus co
   </a>
 
 </div>
-
-
