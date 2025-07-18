@@ -16,7 +16,7 @@ Atualmente, estou focado nos estudos de Java com o objetivo de aprimorar meus co
 </ul>
 
 <div align="left">
-  <img height="200" src="https://i.imgur.com/WStgtGR.jpeg" alt="Ilustração animada" />
+  <img height="200" src="https://i.imgur.com/WStgtGR.jpeg" alt="Ilustração animada" title="Ace One piece" />
 </div>
 
 ###
@@ -58,7 +58,20 @@ Atualmente, estou focado nos estudos de Java com o objetivo de aprimorar meus co
 
 ### 📫 Contato
 
-- 📧 Email: caiosperettajuliano@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)  
-- 🌐 [Meu Portfólio](https://caiosperetta.github.io/portfolio/)
+<div align="left" style="display: flex; gap: 10px;">
+
+  <a href="mailto:caiosperettajuliano@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://linkedin.com/in/seu-usuario" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://caiosperetta.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+
+</div>
+
 
