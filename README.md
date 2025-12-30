@@ -1,18 +1,28 @@
 <h2 align="left">Olá, eu sou o Caio!</h2>
 
 <p align="left">
-Sou um programador em formação, sempre disposto a aprender e criar soluções modernas que contribuam para o meu crescimento pessoal e profissional.<br>
-Atualmente, estou focado nos estudos de Java com o objetivo de aprimorar meus conhecimentos e construir um futuro promissor na área de tecnologia.
+Sou um <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, com foco em desenvolvimento back-end e constante evolução técnica.<br>
+Atualmente, estou aprofundando meus estudos em <strong>Java</strong> para aprimorar meus conhecimentos e construir uma carreira sólida na área de tecnologia.
 </p>
 
 <h3 align="left">Sobre mim</h3>
 
 <ul align="left">
-  <li>🎓 <strong>Formação Acadêmica:</strong> Cursando o último semestre de Análise e Desenvolvimento de Sistemas e iniciando Engenharia da Computação (EAD).</li>
-  <li>👨‍💻 <strong>Objetivo Profissional:</strong> Tornar-me desenvolvedor back-end, com foco em Java.</li>
-  <li>🛠 <strong>Experiência:</strong> Estágio em suporte técnico e desenvolvimento de sistemas, atuando em manutenção, melhorias e atendimento a usuários.</li>
-  <li>💾 <strong>Conhecimentos Técnicos:</strong> Java (em aprendizado), MySQL, Git, HTML, CSS, suporte a sistemas e servidores.</li>
-  <li>🧠 <strong>Estudos Atuais:</strong> Java, estrutura de dados e algoritmos.</li>
+  <li>🎓 <strong>Formação Acadêmica:</strong> 
+    Formado em Análise e Desenvolvimento de Sistemas (Dezembro/2025) e cursando Engenharia da Computação (EAD).
+  </li>
+  <li>👨‍💻 <strong>Objetivo Profissional:</strong> 
+    Atuar como desenvolvedor back-end, com foco em Java.
+  </li>
+  <li>🛠 <strong>Experiência Profissional:</strong> 
+    Auxiliar de TI na Ótica Principal, atuando com suporte técnico, manutenção de sistemas e apoio à infraestrutura.
+  </li>
+  <li>💾 <strong>Conhecimentos Técnicos:</strong> 
+    Java (em aprendizado contínuo), MySQL, Git, HTML, CSS, suporte a sistemas e servidores.
+  </li>
+  <li>🧠 <strong>Estudos Atuais:</strong> 
+    Java, estrutura de dados e algoritmos.
+  </li>
 </ul>
 
 <div align="left">
