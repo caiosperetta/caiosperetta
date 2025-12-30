@@ -47,7 +47,7 @@ Atualmente, estou aprofundando meus estudos em <strong>Java</strong> para aprimo
   <!-- GitHub Stats -->
   <div>
     <h3 align="left">Estatísticas</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiosperetta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiosperetta&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   </div>
 
 </div>
