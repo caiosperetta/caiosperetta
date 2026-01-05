@@ -44,12 +44,6 @@ Atualmente, estou aprofundando meus estudos em <strong>Java</strong> para aprimo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title = "CSS3"/>
   </div>
 
-  <!-- GitHub Stats -->
-  <div>
-    <h3 align="left">Estatísticas</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiosperetta&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </div>
-
 </div>
 
 ###
