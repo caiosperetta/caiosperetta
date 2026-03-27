@@ -1,7 +1,7 @@
 <h2 align="left">Olá, eu sou o Caio!</h2>
 
 <p align="left">
-Sou um <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>, com foco em desenvolvimento back-end e constante evolução técnica.<br>
+Sou um <strong>Analista e Desenvolvedor de Sistemas</strong>, com foco em desenvolvimento back-end e constante evolução técnica.<br>
 Atualmente, estou aprofundando meus estudos em <strong>Java</strong> para aprimorar meus conhecimentos e construir uma carreira sólida na área de tecnologia.
 </p>
 
@@ -9,7 +9,7 @@ Atualmente, estou aprofundando meus estudos em <strong>Java</strong> para aprimo
 
 <ul align="left">
   <li>🎓 <strong>Formação Acadêmica:</strong> 
-    Formado em Análise e Desenvolvimento de Sistemas (Dezembro/2025) e cursando Engenharia da Computação (EAD).
+    Formado em Análise e Desenvolvimento de Sistemas (Dezembro/2025), cursando Engenharia da Computação (EAD) e fazendo Pós em Engenharia de IA (EAD).
   </li>
   <li>👨‍💻 <strong>Objetivo Profissional:</strong> 
     Atuar como desenvolvedor back-end, com foco em Java.
