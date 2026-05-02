@@ -52,7 +52,7 @@ Atualmente, estou aprofundando meus estudos em <strong>Java</strong> para aprimo
 
 <div align="left">
 
-- <a href="https://caiosperetta.github.io/portfolio/" target="_blank">
+- <a href="https://caiosperetta.github.io/portfolio/](https://www.caiosperettajuliano.com.br/" target="_blank">
     Meu Portfólio
   </a>  
   <br />
@@ -90,7 +90,7 @@ Atualmente, estou aprofundando meus estudos em <strong>Java</strong> para aprimo
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://caiosperetta.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.caiosperettajuliano.com.br/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 
