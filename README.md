@@ -52,7 +52,7 @@ Atualmente, estou aprofundando meus estudos em <strong>Java</strong> para aprimo
 
 <div align="left">
 
-- <a href="https://caiosperetta.github.io/portfolio/](https://www.caiosperettajuliano.com.br/" target="_blank">
+- <a href="https://www.caiosperettajuliano.com.br/" target="_blank">
     Meu Portfólio
   </a>  
   <br />
